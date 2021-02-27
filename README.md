@@ -12,13 +12,17 @@ The data is comprised of images in DICOM format containing run-length-encoded (R
 Data set Analysis:
 
 •	Files given:  train-rle.csv, stage_2_sample_submission.csv (test_data), train_images, test_images.
+
 •	Total File Size : 4GB
+
 •	Total number of records: 12,954 (train_data), 3204 (test_data)
+
 •	The train-rle.csv contains image IDs and their corresponding RLE masks and the test csv file only contains the image IDs.
 
 Real World Business Constraints: 
 
 •	Low latency is important.
+
 •	Mis-classification/ mis-segmentation cost is considerably high as we are dealing with medical data and thus it is very sensitive to such errors.
 
 Performance Metric:
@@ -26,7 +30,9 @@ Performance Metric:
 Metric(s):
 
 •	Dice Coefficient  (IntersectionOverUnion/IOU)
+
 •	Combo Loss – (Binary Cross Entropy + Dice Loss/ F1 loss)
+
 •	Confusion Matrix
 
 
