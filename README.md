@@ -45,6 +45,8 @@ Classfication Metrics:
 
 ![Classification Average_Precision_Cureve](https://user-images.githubusercontent.com/56768652/112885011-d62f3900-90ed-11eb-94db-49188c926daf.JPG)
 
+Segmentation Metrics:
+
 ![Segment_Unet++](https://user-images.githubusercontent.com/56768652/112885100-f232da80-90ed-11eb-8bd9-ee7380733d54.JPG)
 
 
