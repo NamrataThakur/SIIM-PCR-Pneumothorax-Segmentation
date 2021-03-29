@@ -35,5 +35,17 @@ Metric(s):
 
 •	Confusion Matrix
 
+Classfication Metrics:
+
+![Classification Metrics](https://user-images.githubusercontent.com/56768652/112884926-bac42e00-90ed-11eb-84f4-17b9424f8d7c.JPG)
+
+![Classification ROC](https://user-images.githubusercontent.com/56768652/112884975-ca437700-90ed-11eb-86b7-a6535da10f6e.JPG)
+
+![Classification CV CM](https://user-images.githubusercontent.com/56768652/112884991-cfa0c180-90ed-11eb-86ba-1483ff72cacd.JPG)
+
+![Classification Average_Precision_Cureve](https://user-images.githubusercontent.com/56768652/112885011-d62f3900-90ed-11eb-94db-49188c926daf.JPG)
+
+![Segment_Unet++](https://user-images.githubusercontent.com/56768652/112885100-f232da80-90ed-11eb-8bd9-ee7380733d54.JPG)
+
 
 THIS REPO IS WORK IN PROGRESS. NEW ADDITION/UPDATION IS DONE EVERYDAY.
