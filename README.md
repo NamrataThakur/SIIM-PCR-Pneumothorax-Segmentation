@@ -47,7 +47,13 @@ Classfication Metrics:
 
 Segmentation Metrics:
 
+Nested Unet :
+
 ![Segment_Unet++](https://user-images.githubusercontent.com/56768652/112885100-f232da80-90ed-11eb-8bd9-ee7380733d54.JPG)
+
+Weighted Nested Unet :
+
+![Segmentation_Metrics](https://user-images.githubusercontent.com/56768652/113031343-3684b000-91ac-11eb-9951-46a4e3fe2503.JPG)
 
 
 THIS REPO IS WORK IN PROGRESS. NEW ADDITION/UPDATION IS DONE EVERYDAY.
