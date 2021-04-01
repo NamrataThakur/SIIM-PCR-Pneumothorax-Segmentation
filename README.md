@@ -35,6 +35,14 @@ Metric(s):
 
 •	Confusion Matrix
 
+This repository contains the following solution :
+
+A) First we classify the Chest X-Rays as either No Pneumothorax Present (Label:0) or Pneumothorax Present (Label:1). This part is the image classification part where we are applying transfer learning technique using the pre-trained model CheXNet (a 121 layer DenseNet model that is fine-tuned on Chest X-Ray images) to classify the images.
+
+B) Then, we build the segmentation part where we apply different segmentation models (Unet, Nested Unet and Double Unet with pre-trained VGG19 as backbone encoder) to predict the masks.
+
+C) Finally, we build the end pipeline where given an image we predict the label (0/1) and if the label is 1 we pass the image through the segmentation model to get the mask.
+
 Classfication Metrics:
 
 ![Classification Metrics](https://user-images.githubusercontent.com/56768652/112884926-bac42e00-90ed-11eb-84f4-17b9424f8d7c.JPG)
