@@ -55,5 +55,26 @@ Weighted Nested Unet :
 
 ![Segmentation_Metrics](https://user-images.githubusercontent.com/56768652/113031343-3684b000-91ac-11eb-9951-46a4e3fe2503.JPG)
 
+FINAL PIPELINE OUTPUT IMAGES :
+
+Positive Prediction :
+
+![Final_Inference_Positive](https://user-images.githubusercontent.com/56768652/113337367-4f749900-9345-11eb-8b8a-b8088f3630a2.JPG)
+
+![Final_Inference_Positive_2](https://user-images.githubusercontent.com/56768652/113337385-56031080-9345-11eb-84ce-0713d4039dea.JPG)
+
+![Final_Inference_Positive_3](https://user-images.githubusercontent.com/56768652/113337684-c14ce280-9345-11eb-9e7b-7e91a96375e4.JPG)
+
+![Final_Inference_Positive_4](https://user-images.githubusercontent.com/56768652/113337695-c447d300-9345-11eb-8cc5-6bdb104e1cd3.JPG)
+
+Negative Prediction :
+
+![Final_Inference_Negative](https://user-images.githubusercontent.com/56768652/113337752-d590df80-9345-11eb-9f44-d02f47df30e7.JPG)
+
+Failure Case :
+
+![Failure Cases](https://user-images.githubusercontent.com/56768652/113337777-dd508400-9345-11eb-893d-7535ef148490.JPG)
+
+
 
 THIS REPO IS WORK IN PROGRESS. NEW ADDITION/UPDATION IS DONE EVERYDAY.
