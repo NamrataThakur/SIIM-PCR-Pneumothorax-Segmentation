@@ -84,5 +84,4 @@ Failure Case :
 ![Failure Cases](https://user-images.githubusercontent.com/56768652/113337777-dd508400-9345-11eb-893d-7535ef148490.JPG)
 
 
-
 THIS REPO IS WORK IN PROGRESS. NEW ADDITION/UPDATION IS DONE EVERYDAY.
