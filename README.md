@@ -23,15 +23,15 @@ Data Source : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overvi
 
 •	**Total number of records:** 12,954 (train_data), 3204 (test_data)
 
-	*The train-rle.csv contains image IDs and their corresponding RLE masks and the test csv file only contains the image IDs.*
+*The train-rle.csv contains image IDs and their corresponding RLE masks and the test csv file only contains the image IDs.*
 
-** Real World Business Constraints: **
+**Real World Business Constraints:**
 
 •	Low latency is important.
 
 •	Mis-classification/ mis-segmentation cost is considerably high as we are dealing with medical data and thus it is very sensitive to such errors.
 
-** Performance Metric:**
+**Performance Metric:**
 
 Metric(s):
 
