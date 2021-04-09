@@ -87,7 +87,7 @@ Demo Deployed App:
 
 https://youtu.be/t737eVOKeOY
 
-[![Final](http://img.youtube.com/vi/t737eVOKeO/0.jpg)](http://www.youtube.com/watch?v=t737eVOKeO "Click to play")
+[![Final](http://img.youtube.com/vi/t737eVOKeO/0.jpg)](https://youtu.be/t737eVOKeOY "Click to play")
 
 https://www.youtube.com/watch?v=t737eVOKeO
 
