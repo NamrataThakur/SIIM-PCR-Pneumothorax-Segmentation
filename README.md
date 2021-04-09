@@ -1,6 +1,6 @@
 # SIIM-PCR-Pneumothorax-Segmentation
 
-	**Demo Deployed App:**
+**Demo Deployed App:**
 
 [![Final Product](https://img.youtube.com/vi/t737eVOKeOY/0.jpg)](https://youtu.be/t737eVOKeOY "Click to play")
 
@@ -23,7 +23,7 @@ Data Source : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overvi
 
 •	**Total number of records:** 12,954 (train_data), 3204 (test_data)
 
-•	*The train-rle.csv contains image IDs and their corresponding RLE masks and the test csv file only contains the image IDs.
+	*The train-rle.csv contains image IDs and their corresponding RLE masks and the test csv file only contains the image IDs.
 
 **Real World Business Constraints: **
 
