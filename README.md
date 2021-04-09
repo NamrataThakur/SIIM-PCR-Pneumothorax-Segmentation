@@ -1,5 +1,9 @@
 # SIIM-PCR-Pneumothorax-Segmentation
 
+Demo Deployed App:
+
+[![Final Product](https://img.youtube.com/vi/t737eVOKeOY/0.jpg)](https://youtu.be/t737eVOKeOY "Click to play")
+
 Business Problem:
 
 Pneumothorax is a medical condition which arises when air leaks into the space between the lung and the chest wall. This air pushes on the outside of the lung and makes it collapse. Thus, pneumothorax can be a complete lung collapse or a portion of the lungs may be collapsed. Pneumothorax can be caused by a blunt chest injury, damage from underlying lung disease, or sometimes for no obvious reason at all. It can be a life-threatening event.
@@ -10,6 +14,8 @@ Mapping the real world problem as a Deep Learning problem:
 The data is comprised of images in DICOM format containing run-length-encoded (RLE) masks. The instances of pneumothorax are indicated by encoded binary masks in the annotations. Some training images have multiple annotations depicting the multiple locations of the event. Images without pneumothorax have a mask value of -1. The task is to predict the mask of pneumothorax in the given X-ray image. This task can be mapped as a Semantic Image Segmentation problem.
 
 Data set Analysis:
+
+Data Source : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview
 
 •	Files given:  train-rle.csv, stage_2_sample_submission.csv (test_data), train_images, test_images.
 
@@ -82,11 +88,5 @@ Negative Prediction :
 Failure Case :
 
 ![Failure Cases](https://user-images.githubusercontent.com/56768652/113337777-dd508400-9345-11eb-893d-7535ef148490.JPG)
-
-Demo Deployed App:
-
-[![Final](https://img.youtube.com/vi/t737eVOKeOY/0.jpg)](https://youtu.be/t737eVOKeOY "Click to play")
-
-Data Source : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview
 
 THIS REPO IS WORK IN PROGRESS. NEW ADDITION/UPDATION IS DONE EVERYDAY.
