@@ -85,7 +85,7 @@ Failure Case :
 
 Demo Deployed App:
 
-[![Final](https://drive.google.com/file/d/1F8nAwalGWJVEd8FMncSN5dY-yRfkLn-N/view?usp=sharing)](https://youtu.be/t737eVOKeOY "Click to play")
+[![Final](https://img.youtube.com/vi/t737eVOKeOY/0.jpg)](https://youtu.be/t737eVOKeOY "Click to play")
 
 Data Source : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview
 
