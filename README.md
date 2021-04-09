@@ -87,6 +87,8 @@ Demo Deployed App:
 
 https://youtu.be/t737eVOKeOY
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t737eVOKeOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Data Source : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview
 
 THIS REPO IS WORK IN PROGRESS. NEW ADDITION/UPDATION IS DONE EVERYDAY.
