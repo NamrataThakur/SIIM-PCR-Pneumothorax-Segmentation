@@ -87,10 +87,7 @@ Demo Deployed App:
 
 https://youtu.be/t737eVOKeOY
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t737eVOKeOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-[![](http://img.youtube.com/vi/t737eVOKeO/0.jpg)](http://www.youtube.com/watch?v=t737eVOKeO "Video Title")
+[![Final](http://img.youtube.com/vi/t737eVOKeO/0.jpg)](http://www.youtube.com/watch?v=t737eVOKeO "Click to play")
 
 https://www.youtube.com/watch?v=t737eVOKeO
 
